@@ -1,6 +1,6 @@
 # Sorghum-growth-development
 
-Code for the analysis for sorghum genotypes characterization
+Code for the analysis of sorghum genotypes characterization
 
 Title: Characterization of growth and development of sorghum genotypes with differential susceptibility to Striga hermonthica
 
